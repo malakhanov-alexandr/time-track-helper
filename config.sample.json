@@ -1,0 +1,22 @@
+{
+  "jira": {
+    "hostname": "",
+    "project": "",
+    "user": "",
+    "pass": ""
+  },
+  "redmine": {
+    "auth": "",
+    "userId": 0,
+    "hostname": "",
+    "api_key": "",
+    "import": {
+      "project": "",
+      "projectId": 0
+    },
+    "report": {
+      "project": ""
+    },
+    "cookie": ""
+  }
+}
